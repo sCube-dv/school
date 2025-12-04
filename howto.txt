@@ -1,0 +1,2 @@
+#Acessar o conteiner mariadb em modo iterativo
+docker exec -it mariadb_container mariadb -u root -p
